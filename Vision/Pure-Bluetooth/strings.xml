@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WashMachineCracker</string>
+    <string name="combo_1">开机一条杠按这个</string>
+    <string name="combo_2">显示En按这个</string>
+    <string name="combo_3">查询状态</string>
+    <string name="combo_4">1元脱水</string>
+    <string name="combo_5">4元强力洗</string>
+    <string name="disconnect_pairing">解除连接</string>
+    <string name="pair">点击寻找已配对的设备</string>
+</resources>

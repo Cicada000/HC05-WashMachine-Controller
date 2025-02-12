@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">BluetoothHC05</string>
+    <string name="app_name">WashMachineCracker</string>
+    <string name="combo_1">0元清洁</string>
+    <string name="combo_2">1元脱水</string>
+    <string name="combo_3">2元快速洗</string>
+    <string name="combo_4">3元标准洗</string>
+    <string name="combo_5">4元强力洗</string>
+    <string name="disconnect_pairing">解除连接</string>
+    <string name="pair">点击寻找已配对的设备</string>
+    <string name="stop">终止洗衣</string>
 </resources>
